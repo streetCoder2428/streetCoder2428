@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGTpL5YN1A/ZtQBt663DhrMZLI_jpeCig/view?utm_content=DAGTpL5YN1A&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.canva.com/design/DAGTpL5YN1A/ZtQBt663DhrMZLI_jpeCig/view?utm_content=DAGTpL5YN1A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <h1 align="center">Hi 👋, I'm Rajesh Reddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
