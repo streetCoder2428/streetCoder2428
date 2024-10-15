@@ -1,5 +1,5 @@
 
-<img src="https://www.canva.com/design/DAGTpL5YN1A/ZtQBt663DhrMZLI_jpeCig/view?utm_content=DAGTpL5YN1A&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Web Developer" title="Web Developer" width="500"/>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Rajesh Reddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
