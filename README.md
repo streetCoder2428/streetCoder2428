@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAGTpL5YN1A/ZtQBt663DhrMZLI_jpeCig/view?utm_content=DAGTpL5YN1A&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGTpL5YN1A/ZtQBt663DhrMZLI_jpeCig/view?utm_content=DAGTpL5YN1A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+<img src="https://www.canva.com/design/DAGTpL5YN1A/ZtQBt663DhrMZLI_jpeCig/view?utm_content=DAGTpL5YN1A&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Web Developer" title="Web Developer" width="500"/>
 <h1 align="center">Hi 👋, I'm Rajesh Reddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
